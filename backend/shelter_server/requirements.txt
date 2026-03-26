@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pandas
+googlemaps>=4.10.0
